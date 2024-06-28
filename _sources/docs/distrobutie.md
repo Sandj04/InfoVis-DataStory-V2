@@ -9,7 +9,7 @@ Het communiceren over het project is vooral via online meetings gebeurt en via b
 
 **Sander**
 
-- De technische verwerking in Jupyter Notebook.
+- De technische verwerking in Jupyter Book.
 - Het opschonen en verwerken van de datasets met Floran. 
 
 **Floran**
