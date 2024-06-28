@@ -1,0 +1,6 @@
+## Reflectie
+Het project was een hele nieuwe ervaring voor ons. Het werken met grote datasets en het maken van grafieken met behulp van python was voor ons erg nieuw. We hebben veel geleerd, maar hebben het ook lastig gevonden. Vooral het opstellen van de argumenten aan de hand van de grafieken was lastig, dit komt namelijk door de grote tweestrijd tussen de perspectieven. Omdat beide perspectieven waar zijn is het lastig om hele sterke argumenten op te kunnen stellen. Wel vinden wij dat de grafieken er erg mooi uit zijn gekomen en de dat het geheel er zeer netjes en prettig leesbaar uitziet.
+
+Tijdens de werkcolleges hebben wij erg handige feedback gekregen, zoals dat we een kolom moesten verduidelijken. Deze kolom heette (obs_value) en was natuurlijk voor de onwetende lezer lastig te begrijpen. Ook werd ons verteld dat we de argumentatie moesten versterken. Hier hebben we aan gewerkt, maar toch was het voor ons lastig om de argumentatie heel veel te versterken.
+
+Verder vinden wij het jammer dat het vak van zulke korte duur was, wij wilden graag meerdere datasets nog toevoegen aan ons onderzoek en verder onderzoek doen naar stress en een groene leefomgeving. 

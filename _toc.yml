@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: docs/introductie
+chapters:
+- file: docs/datasets
+- file: docs/main
+- file: docs/reflectie
+- file: docs/distrobutie
+
